@@ -7,10 +7,10 @@
 </script>
 
 <svelte:head>
-	<title>Gianmarco Cavallo - Main page</title>
+	<title>João Nobre - Main page</title>
 </svelte:head>
 <main>
-	<h1>Hi!✋ <br /> I'm Gianmarco a Front-End Developer 💻 based in Italy</h1>
+	<h1>Hi!✋ <br /> I'm João a Front-End Developer 💻 based in Brazil</h1>
 	<div class="icons">
 		<div
 			role="button"
