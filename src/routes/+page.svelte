@@ -28,7 +28,7 @@
 		</div>
 
 		<a
-			href="https://github.com/Ladvace"
+			href="https://github.com/joaobnobre"
 			aria-label="GitHub"
 			target="_blank"
 			rel="noopener noreferrer"
@@ -38,7 +38,7 @@
 			</div>
 		</a>
 		<a
-			href="https://www.linkedin.com/in/ladvace/"
+			href="https://www.linkedin.com/in/jo%C3%A3o-bento-nobre-a6b3a0280/"
 			aria-label="Linkedin"
 			target="_blank"
 			rel="noopener noreferrer"
@@ -48,7 +48,7 @@
 			</div>
 		</a>
 		<a
-			href="https://medium.com/@ladvace"
+			href="https://medium.com/@joaobnobre"
 			aria-label="Medium"
 			target="_blank"
 			rel="noopener noreferrer"
